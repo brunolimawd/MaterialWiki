@@ -1,0 +1,25 @@
+{
+  "name": "MaterialWiki",
+  "homepage": "https://github.com/brunolimawd/MaterialWiki",
+  "authors": [
+    "Bruno Lima <brunolimawd@gmail.com>"
+  ],
+  "description": "MediaWiki skin based on Material Design Lite",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "mediawiki",
+    "material"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "~1.1.1"
+  }
+}
