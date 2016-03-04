@@ -3,7 +3,7 @@ MediaWiki skin based on [Material Design Lite](https://github.com/google/materia
 
 ## Installation
 
-On MediaWiki directore:
+On MediaWiki directory:
 ```
 $ cd skins
 
