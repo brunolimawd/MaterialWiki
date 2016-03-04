@@ -11,7 +11,7 @@ $ git clone https://github.com/brunolimawd/MaterialWiki.git
 
 $ cd MaterialWiki
 
-$ bower instal
+$ bower install
 ```
 
 ## To do
